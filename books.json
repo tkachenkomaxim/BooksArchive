@@ -1,0 +1,31 @@
+{
+    "book_title": "Atomic Habits",
+    "book_cover": "https://raw.githubusercontent.com/tkachenkomaxim/booksarchive/main/atomichabits/book_cover.jpeg",
+    "chapters": [
+        {
+            "id": 1,
+            "name": "The Surprising Power of Atomic Habits",
+            "audio": "https://raw.githubusercontent.com/tkachenkomaxim/booksarchive/main/atomichabits/chapter_1.mp3"
+        },
+        {
+            "id": 2,
+            "name": "How Your Habits Shape Your Identity (and Vice Versa)",
+            "audio": "https://raw.githubusercontent.com/tkachenkomaxim/booksarchive/main/atomichabits/chapter_2.mp3"
+        },
+        {
+            "id": 3,
+            "name": "How to Build Better Habits in 4 Simple Steps",
+            "audio": "https://raw.githubusercontent.com/tkachenkomaxim/booksarchive/main/atomichabits/chapter_3.mp3"
+        },
+        {
+            "id": 4,
+            "name": "The Man Who Didn’t Look Right",
+            "audio": "https://raw.githubusercontent.com/tkachenkomaxim/booksarchive/main/atomichabits/chapter_4.mp3"
+        },
+        {
+            "id": 5,
+            "name": "The Best Way to Start a New Habit",
+            "audio": "https://raw.githubusercontent.com/tkachenkomaxim/booksarchive/main/atomichabits/chapter_5.mp3"
+        }
+    ]
+}
